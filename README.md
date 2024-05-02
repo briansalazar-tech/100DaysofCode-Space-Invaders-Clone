@@ -1,7 +1,7 @@
 # 100DaysofCode-Space-Invaders-Clone
 Day 95 of the 100 Days of Code course. Day 95's goal was to create a clone of the Space Invaders video game.
 
-The program is split up into to five different files.
+The program is split up into to five different files. If you want to see some screenshots of the program, there are a few saved under the screenshots folder.
 - Aliens.py
 - Laser.py
 - Main.py
